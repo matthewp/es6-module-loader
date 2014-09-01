@@ -1,1 +1,3 @@
-export var p = 'p';
+export default {
+  p: 'p'
+};
